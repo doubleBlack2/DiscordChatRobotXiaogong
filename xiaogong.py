@@ -408,7 +408,7 @@ async def on_message(message):
 
 @bot.event
 async def on_member_join(member):
-    welcome_channel_id = 1231671905686126766  # 这里填入你的欢迎频道 ID
+    welcome_channel_id = 00  # 这里填入你的欢迎频道 ID
 
     channel = bot.get_channel(welcome_channel_id)
 
