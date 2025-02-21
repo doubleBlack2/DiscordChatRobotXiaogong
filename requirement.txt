@@ -1,0 +1,12 @@
+aiohttp
+asyncio
+beautifulsoup4
+discord.py
+ffmpeg
+numpy
+requests
+shutil
+signal
+threading
+yt-dlp
+logging
